@@ -94,6 +94,7 @@ Used to **orchestrate** logic and control the pipeline flow:
 
 ## 🧹 5. Cleanup or Utility Activities
 - 🗑️ **Delete Activity**  
-  - Cleans up temporary or processed files after execution  
+  - Cleans up temporary
+  - Processed files after execution  
 
 ---
