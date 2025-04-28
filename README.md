@@ -98,4 +98,7 @@ Used to **orchestrate** logic and control the pipeline flow:
 ### 📥 Common Sources:
 - 🗄️ SQL Database  
 - 📁 CSV Files  
-- 🌐 REST APIs  
+- 🌐 REST APIs
+
+---
+### Blogs
