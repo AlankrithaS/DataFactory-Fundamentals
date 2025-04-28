@@ -12,10 +12,7 @@ Azure Data Factory (ADF) is a **cloud-based data integration service** that allo
 - 🔌 Uses **connectors** to link different data sources and destinations  
 - 📊 Supports both **structured** and **unstructured** data  
 
-### 📥 Common Sources:
-- 🗄️ SQL Database  
-- 📁 CSV Files  
-- 🌐 REST APIs  
+
 
 ### 📤 Common Destinations:
 - 🪣 Azure Blob Storage  
@@ -98,3 +95,7 @@ Used to **orchestrate** logic and control the pipeline flow:
   - Processed files after execution  
 
 ---
+### 📥 Common Sources:
+- 🗄️ SQL Database  
+- 📁 CSV Files  
+- 🌐 REST APIs  
